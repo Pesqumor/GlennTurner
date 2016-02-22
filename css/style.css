@@ -7,6 +7,46 @@ and open the template in the editor.
     Created on : 9 déc. 2015, 10:44:14
     Author     : pesqumor
 */
+
+	body{ 
+    	background-color: #eeeacd;
+    	color:#000;
+	}
+
+	h1{
+		text-align:center;
+	}
+
+	nav{
+		text-align:center;
+		border: solid black 1px;
+		border-radius: 2% 2% 2% 2%;
+	}
+
+	main{
+		border: solid black 1px;
+		border-radius: 1% 1% 1% 1%;
+	}
+
+	li{
+		display:inline;
+		text-decoration:none;
+		margin-right:3%;
+		}
+	footer{
+		text-align: center;
+		border: solid black 1px;
+		border-radius: 2% 2% 2% 2%;
+	}
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 9 déc. 2015, 10:44:14
+    Author     : pesqumor
+*/
 body{ 
     background-color: #eeeacd;
     text-align: center;
